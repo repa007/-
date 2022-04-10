@@ -1,0 +1,121 @@
+%!Adobe-FontList 1.23
+%Locale:0x419
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\GitRep\VvTOCK\Папка ЛР4\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1647624192
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NiagaraSolid-Reg
+FamilyName:Niagara Solid
+StyleName:Regular
+FullName:Niagara Solid
+MenuName:Niagara Solid
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\GitRep\VvTOCK\Папка ЛР4\Document fonts\NIAGSOL.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:74012
+FileModTime:1438216074
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Niagara Solid
+NameArray:0,Win,1,Niagara Solid
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri
+FamilyName:Calibri
+StyleName:Regular
+FullName:Calibri
+MenuName:Calibri
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\GitRep\VvTOCK\Папка ЛР4\Document fonts\calibri.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1648120
+FileModTime:1575709706
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Calibri
+NameArray:0,Win,1,Calibri
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri-Bold
+FamilyName:Calibri
+StyleName:Bold
+FullName:Calibri Bold
+MenuName:Calibri
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\GitRep\VvTOCK\Папка ЛР4\Document fonts\calibrib.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1613668
+FileModTime:1575709706
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Calibri Bold
+NameArray:0,Win,1,Calibri
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri-Italic
+FamilyName:Calibri
+StyleName:Italic
+FullName:Calibri Italic
+MenuName:Calibri
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\GitRep\VvTOCK\Папка ЛР4\Document fonts\calibrii.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1196672
+FileModTime:1575709706
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Calibri Italic
+NameArray:0,Win,1,Calibri
+%EndFont
+

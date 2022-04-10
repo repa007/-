@@ -1,0 +1,75 @@
+%!Adobe-FontList 1.23
+%Locale:0x419
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\GitRep\VvTOCK\211_7210_Лаб5_Салов.Д.К_28_03_22\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1647624192
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Corbel
+FamilyName:Corbel
+StyleName:Regular
+FullName:Corbel
+MenuName:Corbel
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\GitRep\VvTOCK\211_7210_Лаб5_Салов.Д.К_28_03_22\Document fonts\corbel.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:277168
+FileModTime:1575709717
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Corbel
+NameArray:0,Win,1,Corbel
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Corbel-Italic
+FamilyName:Corbel
+StyleName:Italic
+FullName:Corbel Italic
+MenuName:Corbel
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\GitRep\VvTOCK\211_7210_Лаб5_Салов.Д.К_28_03_22\Document fonts\corbeli.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:284690
+FileModTime:1575709717
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Corbel Italic
+NameArray:0,Win,1,Corbel
+%EndFont
+
